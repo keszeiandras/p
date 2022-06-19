@@ -1,1 +1,1 @@
-# probanode
+A próba csomó regisztálásához
